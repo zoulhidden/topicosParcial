@@ -1,0 +1,1285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Catalogue xmlns="urn:oasis:names:specification:ubl:schema:xsd:Catalogue-2" xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2">
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Alfreds Futterkiste</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>12209</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Obere Str. 57</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Maria Anders</cbc:Name><cbc:Telephone>030-0074321</cbc:Telephone><cbc:Telefax>030-0076545</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Ana Trujillo Emparedados y helados</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05021</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Avda. de la Constitución 2222</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>México</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Ana Trujillo</cbc:Name><cbc:Telephone>(5) 555-4729</cbc:Telephone><cbc:Telefax>(5) 555-3745</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Antonio Moreno Taquería</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05023</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Mataderos  2312</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>México</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Antonio Moreno</cbc:Name><cbc:Telephone>(5) 555-3932</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Around the Horn</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>WA1 1DP</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>120 Hanover Sq.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Thomas Hardy</cbc:Name><cbc:Telephone>(71) 555-7788</cbc:Telephone><cbc:Telefax>(71) 555-6750</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Berglunds snabbköp</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>S-958 22</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Berguvsvägen  8</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Suecia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Christina Berglund</cbc:Name><cbc:Telephone>0921-12 34 65</cbc:Telephone><cbc:Telefax>0921-12 34 67</cbc:Telefax><cbc:Note>Administrador de pedidos</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Blauer See Delikatessen</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>68306</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Forsterstr. 57</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Hanna Moos</cbc:Name><cbc:Telephone>0621-08460</cbc:Telephone><cbc:Telefax>0621-08924</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Blondel père et fils</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>67000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>24, place Kléber</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Frédérique Citeaux</cbc:Name><cbc:Telephone>88.60.15.31</cbc:Telephone><cbc:Telefax>88.60.15.32</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Bólido Comidas preparadas</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>28023</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>C/ Araquil, 67</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>España</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Martín Sommer</cbc:Name><cbc:Telephone>(91) 555 22 82</cbc:Telephone><cbc:Telefax>(91) 555 91 99</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Bon app'</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>13008</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>12, rue des Bouchers</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Laurence Lebihan</cbc:Name><cbc:Telephone>91.24.45.40</cbc:Telephone><cbc:Telefax>91.24.45.41</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Bottom-Dollar Markets</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>T2F 8M4</cbc:PostalZone><cbc:CountrySubentity>BC</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>23 Tsawassen Blvd.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Canadá</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Elizabeth Lincoln</cbc:Name><cbc:Telephone>(604) 555-4729</cbc:Telephone><cbc:Telefax>(604) 555-3745</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>B's Beverages</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>EC2 5NT</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Fauntleroy Circus</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Victoria Ashworth</cbc:Name><cbc:Telephone>(71) 555-1212</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Cactus Comidas para llevar</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1010</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Cerrito 333</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Argentina</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Patricio Simpson</cbc:Name><cbc:Telephone>(1) 135-5555</cbc:Telephone><cbc:Telefax>(1) 135-4892</cbc:Telefax><cbc:Note>Agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Centro comercial Moctezuma</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05022</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Sierras de Granada 9993</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>México</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Francisco Chang</cbc:Name><cbc:Telephone>(5) 555-3392</cbc:Telephone><cbc:Telefax>(5) 555-7293</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Chop-suey Chinese</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>3012</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Hauptstr. 29</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Suiza</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Yang Wang</cbc:Name><cbc:Telephone>0452-076545</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Comércio Mineiro</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05432-043</cbc:PostalZone><cbc:CountrySubentity>SP</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Av. dos Lusíadas, 23</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Pedro Afonso</cbc:Name><cbc:Telephone>(11) 555-7647</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Consolidated Holdings</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>WX1 6LT</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Berkeley Gardens
+12  Brewery </cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Elizabeth Brown</cbc:Name><cbc:Telephone>(71) 555-2282</cbc:Telephone><cbc:Telefax>(71) 555-9199</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Drachenblut Delikatessen</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>52066</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Walserweg 21</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Sven Ottlieb</cbc:Name><cbc:Telephone>0241-039123</cbc:Telephone><cbc:Telefax>0241-059428</cbc:Telefax><cbc:Note>Administrador de pedidos</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Du monde entier</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>44000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>67, rue des Cinquante Otages</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Janine Labrune</cbc:Name><cbc:Telephone>40.67.88.88</cbc:Telephone><cbc:Telefax>40.67.89.89</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Eastern Connection</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>WX3 6FW</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>35 King George</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Ann Devon</cbc:Name><cbc:Telephone>(71) 555-0297</cbc:Telephone><cbc:Telefax>(71) 555-3373</cbc:Telefax><cbc:Note>Agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Ernst Handel</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>8010</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Kirchgasse 6</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Austria</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Roland Mendel</cbc:Name><cbc:Telephone>7675-3425</cbc:Telephone><cbc:Telefax>7675-3426</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Familia Arquibaldo</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05442-030</cbc:PostalZone><cbc:CountrySubentity>SP</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Rua Orós, 92</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Aria Cruz</cbc:Name><cbc:Telephone>(11) 555-9857</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>FISSA Fabrica Inter. Salchichas S.A.</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>28034</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>C/ Moralzarzal, 86</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>España</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Diego Roel</cbc:Name><cbc:Telephone>(91) 555 94 44</cbc:Telephone><cbc:Telefax>(91) 555 55 93</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Folies gourmandes</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>59000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>184, chaussée de Tournai</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Martine Rancé</cbc:Name><cbc:Telephone>20.16.10.16</cbc:Telephone><cbc:Telefax>20.16.10.17</cbc:Telefax><cbc:Note>Asistente de agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Folk och fä HB</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>S-844 67</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Åkergatan 24</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Suecia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Maria Larsson</cbc:Name><cbc:Telephone>0695-34 67 21</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Frankenversand</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>80805</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Berliner Platz 43</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Peter Franken</cbc:Name><cbc:Telephone>089-0877310</cbc:Telephone><cbc:Telefax>089-0877451</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>France restauration</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>44000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>54, rue Royale</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Carine Schmitt</cbc:Name><cbc:Telephone>40.32.21.21</cbc:Telephone><cbc:Telefax>40.32.21.20</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Franchi S.p.A.</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>10100</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Via Monte Bianco 34</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Italia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Paolo Accorti</cbc:Name><cbc:Telephone>011-4988260</cbc:Telephone><cbc:Telefax>011-4988261</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Furia Bacalhau e Frutos do Mar</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1675</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Jardim das rosas n. 32</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Portugal</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Lino Rodriguez </cbc:Name><cbc:Telephone>(1) 354-2534</cbc:Telephone><cbc:Telefax>(1) 354-2535</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Galería del gastrónomo</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>08022</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Rambla de Cataluña, 23</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>España</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Eduardo Saavedra</cbc:Name><cbc:Telephone>(93) 203 4560</cbc:Telephone><cbc:Telefax>(93) 203 4561</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Godos Cocina Típica</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>41101</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>C/ Romero, 33</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>España</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>José Pedro Freyre</cbc:Name><cbc:Telephone>(95) 555 82 82</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Gourmet Lanchonetes</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>04876-786</cbc:PostalZone><cbc:CountrySubentity>SP</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Av. Brasil, 442</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>André Fonseca</cbc:Name><cbc:Telephone>(11) 555-9482</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Great Lakes Food Market</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>97403</cbc:PostalZone><cbc:CountrySubentity>OR</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>2732 Baker Blvd.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Howard Snyder</cbc:Name><cbc:Telephone>(503) 555-7555</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>GROSELLA-Restaurante</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1081</cbc:PostalZone><cbc:CountrySubentity>DF</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>5ª Ave. Los Palos Grandes</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Venezuela</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Manuel Pereira</cbc:Name><cbc:Telephone>(2) 283-2951</cbc:Telephone><cbc:Telefax>(2) 283-3397</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Hanari Carnes</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05454-876</cbc:PostalZone><cbc:CountrySubentity>RJ</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Rua do Paço, 67</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Mario Pontes</cbc:Name><cbc:Telephone>(21) 555-0091</cbc:Telephone><cbc:Telefax>(21) 555-8765</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>HILARIÓN-Abastos</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>5022</cbc:PostalZone><cbc:CountrySubentity>Táchira</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Carrera 22 con Ave. Carlos Soublette #8-35</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Venezuela</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Carlos Hernández</cbc:Name><cbc:Telephone>(5) 555-1340</cbc:Telephone><cbc:Telefax>(5) 555-1948</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Hungry Coyote Import Store</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>97827</cbc:PostalZone><cbc:CountrySubentity>OR</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>City Center Plaza
+516 Main St.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Yoshi Latimer</cbc:Name><cbc:Telephone>(503) 555-6874</cbc:Telephone><cbc:Telefax>(503) 555-2376</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Hungry Owl All-Night Grocers</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone></cbc:PostalZone><cbc:CountrySubentity>Co. Cork</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>8 Johnstown Road</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Irlanda</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Patricia McKenna</cbc:Name><cbc:Telephone>2967 542</cbc:Telephone><cbc:Telefax>2967 3333</cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Island Trading</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>PO31 7PJ</cbc:PostalZone><cbc:CountrySubentity>Isla de Wight</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Garden House
+Crowther Way</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Helen Bennett</cbc:Name><cbc:Telephone>(198) 555-8888</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Königlich Essen</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>14776</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Maubelstr. 90</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Philip Cramer</cbc:Name><cbc:Telephone>0555-09876</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>La corne d'abondance</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>78000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>67, avenue de l'Europe</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Daniel Tonini</cbc:Name><cbc:Telephone>30.59.84.10</cbc:Telephone><cbc:Telefax>30.59.85.11</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>La maison d'Asie</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>31000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>1 rue Alsace-Lorraine</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Annette Roulet</cbc:Name><cbc:Telephone>61.77.61.10</cbc:Telephone><cbc:Telefax>61.77.61.11</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Laughing Bacchus Wine Cellars</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>V3F 2K1</cbc:PostalZone><cbc:CountrySubentity>BC</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>1900 Oak St.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Canadá</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Yoshi Tannamuri</cbc:Name><cbc:Telephone>(604) 555-3392</cbc:Telephone><cbc:Telefax>(604) 555-7293</cbc:Telefax><cbc:Note>Asistente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Lazy K Kountry Store</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>99362</cbc:PostalZone><cbc:CountrySubentity>WA</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>12 Orchestra Terrace</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>John Steel</cbc:Name><cbc:Telephone>(509) 555-7969</cbc:Telephone><cbc:Telefax>(509) 555-6221</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Lehmanns Marktstand</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>60528</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Magazinweg 7</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Renate Messner</cbc:Name><cbc:Telephone>069-0245984</cbc:Telephone><cbc:Telefax>069-0245874</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Let's Stop N Shop</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>94117</cbc:PostalZone><cbc:CountrySubentity>CA</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>87 Polk St.
+Suite 5</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Jaime Yorres</cbc:Name><cbc:Telephone>(415) 555-5938</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>LILA-Supermercado</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>3508</cbc:PostalZone><cbc:CountrySubentity>Lara</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Carrera 52 con Ave. Bolívar #65-98 Llano Largo</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Venezuela</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Carlos González</cbc:Name><cbc:Telephone>(9) 331-6954</cbc:Telephone><cbc:Telefax>(9) 331-7256</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>LINO-Delicateses</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>4980</cbc:PostalZone><cbc:CountrySubentity>Nueva Esparta</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Ave. 5 de Mayo Porlamar</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Venezuela</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Felipe Izquierdo</cbc:Name><cbc:Telephone>(8) 34-56-12</cbc:Telephone><cbc:Telefax>(8) 34-93-93</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Lonesome Pine Restaurant</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>97219</cbc:PostalZone><cbc:CountrySubentity>OR</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>89 Chiaroscuro Rd.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Fran Wilson</cbc:Name><cbc:Telephone>(503) 555-9573</cbc:Telephone><cbc:Telefax>(503) 555-9646</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Magazzini Alimentari Riuniti</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>24100</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Via Ludovico il Moro 22</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Italia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Giovanni Rovelli</cbc:Name><cbc:Telephone>035-640230</cbc:Telephone><cbc:Telefax>035-640231</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Maison Dewey</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>B-1180</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Rue Joseph-Bens 532</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Bélgica</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Catherine Dewey</cbc:Name><cbc:Telephone>(02) 201 24 67</cbc:Telephone><cbc:Telefax>(02) 201 24 68</cbc:Telefax><cbc:Note>Agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Mère Paillarde</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>H1J 1C3</cbc:PostalZone><cbc:CountrySubentity>Québec</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>43 rue St. Laurent</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Canadá</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Jean Fresnière</cbc:Name><cbc:Telephone>(514) 555-8054</cbc:Telephone><cbc:Telefax>(514) 555-8055</cbc:Telefax><cbc:Note>Asistente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Morgenstern Gesundkost</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>04179</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Heerstr. 22</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Alexander Feuer</cbc:Name><cbc:Telephone>0342-023176</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>North/South</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>SW7 1RZ</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>South House
+300 Queensbridge</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Simon Crowther</cbc:Name><cbc:Telephone>(71) 555-7733</cbc:Telephone><cbc:Telefax>(71) 555-2530</cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Océano Atlántico Ltda.</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1010</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Ing. Gustavo Moncada 8585
+Piso 20-A</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Argentina</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Yvonne Moncada</cbc:Name><cbc:Telephone>(1) 135-5333</cbc:Telephone><cbc:Telefax>(1) 135-5535</cbc:Telefax><cbc:Note>Agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Old World Delicatessen</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>99508</cbc:PostalZone><cbc:CountrySubentity>AK</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>2743 Bering St.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Rene Phillips</cbc:Name><cbc:Telephone>(907) 555-7584</cbc:Telephone><cbc:Telefax>(907) 555-2880</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Ottilies Käseladen</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>50739</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Mehrheimerstr. 369</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Henriette Pfalzheim</cbc:Name><cbc:Telephone>0221-0644327</cbc:Telephone><cbc:Telefax>0221-0765721</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Paris spécialités</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>75012</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>265, boulevard Charonne</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Marie Bertrand</cbc:Name><cbc:Telephone>(1) 42.34.22.66</cbc:Telephone><cbc:Telefax>(1) 42.34.22.77</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Pericles Comidas clásicas</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05033</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Calle Dr. Jorge Cash 321</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>México</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Guillermo Fernández</cbc:Name><cbc:Telephone>(5) 552-3745</cbc:Telephone><cbc:Telefax>(5) 545-3745</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Piccolo und mehr</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>5020</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Geislweg 14</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Austria</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Georg Pipps</cbc:Name><cbc:Telephone>6562-9722</cbc:Telephone><cbc:Telefax>6562-9723</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Princesa Isabel Vinhos</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1756</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Estrada da saúde n. 58</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Portugal</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Isabel de Castro</cbc:Name><cbc:Telephone>(1) 356-5634</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Que Delícia</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>02389-673</cbc:PostalZone><cbc:CountrySubentity>RJ</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Rua da Panificadora, 12</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Bernardo Batista</cbc:Name><cbc:Telephone>(21) 555-4252</cbc:Telephone><cbc:Telefax>(21) 555-4545</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Queen Cozinha</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05487-020</cbc:PostalZone><cbc:CountrySubentity>SP</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Alameda dos Canàrios, 891</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Lúcia Carvalho</cbc:Name><cbc:Telephone>(11) 555-1189</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>QUICK-Stop</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>01307</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Taucherstraße 10</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Horst Kloss</cbc:Name><cbc:Telephone>0372-035188</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Rancho grande</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1010</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Av. del Libertador 900</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Argentina</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Sergio Gutiérrez</cbc:Name><cbc:Telephone>(1) 123-5555</cbc:Telephone><cbc:Telefax>(1) 123-5556</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Rattlesnake Canyon Grocery</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>87110</cbc:PostalZone><cbc:CountrySubentity>NM</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>2817 Milton Dr.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Paula Wilson</cbc:Name><cbc:Telephone>(505) 555-5939</cbc:Telephone><cbc:Telefax>(505) 555-3620</cbc:Telefax><cbc:Note>Representante agente ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Reggiani Caseifici</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>42100</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Strada Provinciale 124</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Italia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Maurizio Moroni</cbc:Name><cbc:Telephone>0522-556721</cbc:Telephone><cbc:Telefax>0522-556722</cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Ricardo Adocicados</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>02389-890</cbc:PostalZone><cbc:CountrySubentity>RJ</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Av. Copacabana, 267</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Janete Limeira</cbc:Name><cbc:Telephone>(21) 555-3412</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Asistente de agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Richter Supermarkt</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1203</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Grenzacherweg 237</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Suiza</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Michael Holz</cbc:Name><cbc:Telephone>0897-034214</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Romero y tomillo</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>28001</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Gran Vía, 1</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>España</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Alejandra Camino</cbc:Name><cbc:Telephone>(91) 745 6200</cbc:Telephone><cbc:Telefax>(91) 745 6210</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Santé Gourmet</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>4110</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Erling Skakkes gate 78</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Noruega</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Jonas Bergulfsen</cbc:Name><cbc:Telephone>07-98 92 35</cbc:Telephone><cbc:Telefax>07-98 92 47</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Save-a-lot Markets</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>83720</cbc:PostalZone><cbc:CountrySubentity>ID</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>187 Suffolk Ln.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Jose Pavarotti</cbc:Name><cbc:Telephone>(208) 555-8097</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Seven Seas Imports</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>OX15 4NB</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>90 Wadhurst Rd.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Reino Unido</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Hari Kumar</cbc:Name><cbc:Telephone>(71) 555-1717</cbc:Telephone><cbc:Telefax>(71) 555-5646</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Simons bistro</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>1734</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Vinbæltet 34</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Dinamarca</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Jytte Petersen</cbc:Name><cbc:Telephone>31 12 34 56</cbc:Telephone><cbc:Telefax>31 13 35 57</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Spécialités du monde</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>75016</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>25, rue Lauriston</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Dominique Perrier</cbc:Name><cbc:Telephone>(1) 47.55.60.10</cbc:Telephone><cbc:Telefax>(1) 47.55.60.20</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Split Rail Beer &amp; Ale</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>82520</cbc:PostalZone><cbc:CountrySubentity>WY</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>P.O. Box 555</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Art Braunschweiger</cbc:Name><cbc:Telephone>(307) 555-4680</cbc:Telephone><cbc:Telefax>(307) 555-6525</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Suprêmes délices</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>B-6000</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Boulevard Tirou, 255</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Bélgica</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Pascale Cartrain</cbc:Name><cbc:Telephone>(071) 23 67 22 20</cbc:Telephone><cbc:Telefax>(071) 23 67 22 21</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>The Big Cheese</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>97201</cbc:PostalZone><cbc:CountrySubentity>OR</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>89 Jefferson Way
+Suite 2</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Liz Nixon</cbc:Name><cbc:Telephone>(503) 555-3612</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>The Cracker Box</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>59801</cbc:PostalZone><cbc:CountrySubentity>MT</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>55 Grizzly Peak Rd.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Liu Wong</cbc:Name><cbc:Telephone>(406) 555-5834</cbc:Telephone><cbc:Telefax>(406) 555-8083</cbc:Telefax><cbc:Note>Asistente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Toms Spezialitäten</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>44087</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Luisenstr. 48</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Karin Josephs</cbc:Name><cbc:Telephone>0251-031259</cbc:Telephone><cbc:Telefax>0251-035695</cbc:Telefax><cbc:Note>Gerente de marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Tortuga Restaurante</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05033</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Avda. Azteca 123</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>México</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Miguel Angel Paolino</cbc:Name><cbc:Telephone>(5) 555-2933</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Tradição Hipermercados</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>05634-030</cbc:PostalZone><cbc:CountrySubentity>SP</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Av. Inês de Castro, 414</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Anabela Domingues</cbc:Name><cbc:Telephone>(11) 555-2167</cbc:Telephone><cbc:Telefax>(11) 555-2168</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Trail's Head Gourmet Provisioners</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>98034</cbc:PostalZone><cbc:CountrySubentity>WA</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>722 DaVinci Blvd.</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Helvetius Nagy</cbc:Name><cbc:Telephone>(206) 555-8257</cbc:Telephone><cbc:Telefax>(206) 555-2174</cbc:Telefax><cbc:Note>Asistente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Vaffeljernet</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>8200</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Smagsløget 45</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Dinamarca</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Palle Ibsen</cbc:Name><cbc:Telephone>86 21 32 43</cbc:Telephone><cbc:Telefax>86 22 33 44</cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Victuailles en stock</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>69004</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>2, rue du Commerce</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Mary Saveley</cbc:Name><cbc:Telephone>78.32.54.86</cbc:Telephone><cbc:Telefax>78.32.54.87</cbc:Telefax><cbc:Note>Agente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Vins et alcools Chevalier</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>51100</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>59 rue de l'Abbaye</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Francia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Paul Henriot</cbc:Name><cbc:Telephone>26.47.15.10</cbc:Telephone><cbc:Telefax>26.47.15.11</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Die Wandernde Kuh</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>70563</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Adenauerallee 900</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Rita Müller</cbc:Name><cbc:Telephone>0711-020361</cbc:Telephone><cbc:Telefax>0711-035428</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Wartian Herkku</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>90110</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Torikatu 38</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Finlandia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Pirkko Koskitalo</cbc:Name><cbc:Telephone>981-443655</cbc:Telephone><cbc:Telefax>981-443655</cbc:Telefax><cbc:Note>Gerente de contabilidad</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Wellington Importadora</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>08737-363</cbc:PostalZone><cbc:CountrySubentity>SP</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Rua do Mercado, 12</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Brasil</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Paula Parente</cbc:Name><cbc:Telephone>(14) 555-8122</cbc:Telephone><cbc:Telefax></cbc:Telefax><cbc:Note>Gerente de ventas</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>White Clover Markets</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>98128</cbc:PostalZone><cbc:CountrySubentity>WA</cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>305 - 14th Ave. S.
+Suite 3B</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Estados Unidos</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Karl Jablonski</cbc:Name><cbc:Telephone>(206) 555-4112</cbc:Telephone><cbc:Telefax>(206) 555-4115</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Wilman Kala</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>21240</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>Keskuskatu 45</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Finlandia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Matti Karttunen</cbc:Name><cbc:Telephone>90-224 8858</cbc:Telephone><cbc:Telefax>90-224 8858</cbc:Telefax><cbc:Note>Prop./Asistente marketing</cbc:Note>
+		</cac:Contact></cac:Party>
+	<cac:Party><cac:PartyName>
+			<cbc:Name>Wolski  Zajazd</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:PostalZone>01-012</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+				<cac:Line>ul. Filtrowa 68</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+				<cbc:Name>Polonia</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress><cac:Contact>
+			<cbc:Name>Zbyszek Piestrzeniewicz</cbc:Name><cbc:Telephone>(26) 642-7012</cbc:Telephone><cbc:Telefax>(26) 642-7012</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+		</cac:Contact></cac:Party>
+</Catalogue>

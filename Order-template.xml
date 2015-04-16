@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Order xmlns:cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2" xmlns:cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" xmlns="urn:oasis:names:specification:ubl:schema:xsd:Order-2">
+	<cbc:UBLVersionID>2.0</cbc:UBLVersionID>
+	<cbc:ID>32165465464</cbc:ID>
+	<cbc:CopyIndicator>false</cbc:CopyIndicator>
+	<cbc:UUID>6E09886B-DC6E-439F-82D1-7CCAC7F4E3B1</cbc:UUID>
+	<cbc:IssueDate>2015-06-20</cbc:IssueDate>
+	<cbc:Note>sample</cbc:Note>
+	<cac:BuyerCustomerParty>
+
+	<cac:Party>
+		<cac:PartyName>
+			<cbc:Name>Alfreds Futterkiste</cbc:Name>
+		</cac:PartyName>
+		<cac:PostalAddress>
+			<cbc:Name>Maria Anders</cbc:Name>
+			<cbc:PostalZone>12209</cbc:PostalZone>
+			<cbc:CountrySubentity></cbc:CountrySubentity>
+			<cac:AddressLine>
+			<cac:Line>Obere Str. 57</cac:Line>
+			</cac:AddressLine>
+			<cac:Country>
+			<cbc:Name>Alemania</cbc:Name>
+			</cac:Country>
+		</cac:PostalAddress>
+		<cac:Contact>
+			<cbc:Name>Alfreds Futterkiste</cbc:Name><cbc:Telephone>030-0074321</cbc:Telephone><cbc:Telefax>030-0076545</cbc:Telefax><cbc:Note>Representante de ventas</cbc:Note>
+		</cac:Contact>
+	</cac:Party>
+	
+		
+	</cac:BuyerCustomerParty>
+	
+	<cac:SellerSupplierParty>
+
+<cac:Party><cac:PartyName>
+<cbc:Name>Ana Trujillo Emparedados y helados</cbc:Name>
+</cac:PartyName>
+<cac:PostalAddress>
+<cbc:Name>Ana Trujillo</cbc:Name><cbc:PostalZone>05021</cbc:PostalZone><cbc:CountrySubentity></cbc:CountrySubentity>
+<cac:AddressLine>
+<cac:Line>Avda. de la Constitución 2222</cac:Line>
+</cac:AddressLine>
+<cac:Country>
+<cbc:Name>México</cbc:Name>
+</cac:Country>
+</cac:PostalAddress><cac:Contact>
+<cbc:Name>Ana Trujillo Emparedados y helados</cbc:Name><cbc:Telephone>(5) 555-4729</cbc:Telephone><cbc:Telefax>(5) 555-3745</cbc:Telefax><cbc:Note>Propietario</cbc:Note>
+</cac:Contact></cac:Party>
+
+		</cac:SellerSupplierParty>
+
+		<cac:DeliveryTerms>
+		<cbc:SpecialTerms>1% deduction for late delivery as per contract</cbc:SpecialTerms>
+	</cac:DeliveryTerms>
+	<cac:TransactionConditions>
+		<cbc:Description>order response required; payment is by BACS or by cheque</cbc:Description>
+	</cac:TransactionConditions>
+	<cac:AnticipatedMonetaryTotal>
+		<cbc:LineExtensionAmount currencyID="GBP">100.00</cbc:LineExtensionAmount>
+		<cbc:PayableAmount currencyID="GBP">100.00</cbc:PayableAmount>
+	</cac:AnticipatedMonetaryTotal>
+	<cac:OrderLine>
+		<cac:LineItem>
+			<cbc:Quantity unitCode="UND">10</cbc:Quantity>
+			<cbc:LineExtensionAmount currencyID="USD">190</cbc:LineExtensionAmount>
+			<cac:Price>
+				<cbc:PriceAmount currencyID="USD">19</cbc:PriceAmount>
+				<cbc:BaseQuantity unitCode="UND">1</cbc:BaseQuantity>
+			</cac:Price>
+			<cac:Item>
+				<cbc:Description>Cerveza tibetana Barley</cbc:Description>
+			</cac:Item>
+		</cac:LineItem>
+	</cac:OrderLine>
+</Order>
